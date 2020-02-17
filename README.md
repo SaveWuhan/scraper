@@ -4,7 +4,7 @@ Author: will
 
 ### Intro
 
-This is a simple scraping scripts originally created for the other repository [SaveWuhan/NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan). The script turns distracting web view into clean, formatted Markdown `md` file.
+This is a simple scraping script originally created for the other repository [SaveWuhan/NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan). The script turns distracting web view into clean, formatted Markdown `md` file.
 
 ### Requirement
 
