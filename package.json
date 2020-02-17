@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0",
+    "axios": "^0.19.2",
+    "cloudinary": "^1.19.0",
+    "minimist": "^1.2.0",
+    "rehype-parse": "^6.0.2",
+    "rehype-remark": "^7.0.0",
+    "remark": "^11.0.2",
+    "remark-stringify": "^7.0.4",
+    "unified": "^8.4.2",
+    "unist-util-remove": "^2.0.0",
+    "unist-util-visit": "^2.0.2"
+  }
+}
