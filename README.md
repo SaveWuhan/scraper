@@ -12,7 +12,7 @@ This is a simple scraping scripts originally created for the other repository [S
 
 ### Usage
 
-1. `$ yarn add` or `$ npm install`
+1. `$ yarn install` or `$ npm install`
 2. `$ node scrape url [options]`
 
 ### Notes and Options
