@@ -3,7 +3,7 @@
     "@postlight/mercury-parser": "^2.2.0",
     "axios": "^0.19.2",
     "cloudinary": "^1.19.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "rehype-parse": "^6.0.2",
     "rehype-remark": "^7.0.0",
     "remark": "^11.0.2",
